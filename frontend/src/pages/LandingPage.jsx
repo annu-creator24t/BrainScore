@@ -20,7 +20,7 @@ return () => clearInterval(interval);
 
 return ( <div className="w-full">
 {/* Hero Section */} <section className="h-screen flex flex-col items-center justify-center text-center bg-gradient-to-b from-indigo-100 to-white px-6 animate-fadeIn"> <h1 className="text-4xl md:text-6xl font-bold text-indigo-900 mb-4 animate-slideUp">
-ChittaVani – Turning Thoughts into Words </h1> <p className="text-lg md:text-xl text-gray-700 max-w-2xl mb-6 animate-slideUp">
+BrainScore – Turning Thoughts into Words </h1> <p className="text-lg md:text-xl text-gray-700 max-w-2xl mb-6 animate-slideUp">
 Capturing EEG signals and transforming them into meaningful text in real-time. </p>
 
 
@@ -48,10 +48,10 @@ Capturing EEG signals and transforming them into meaningful text in real-time. <
   {/* About Section */}
   <section className="py-16 bg-white px-6 animate-slideUp">
     <h1 className="text-2xl font-bold text-center text-indigo-900 mb-6">
-      What is ChittaVani?
+      What is BrainScore?
     </h1>
     <p className="text-gray-700 text-center max-w-2xl mx-auto">
-      ChittaVani bridges brain activity and communication by transforming EEG
+      BrainScore bridges brain activity and communication by transforming EEG
       signals into words. Designed to empower people facing communication
       barriers, it represents the future of human–computer interaction.
     </p>
@@ -80,7 +80,7 @@ Capturing EEG signals and transforming them into meaningful text in real-time. <
 
   {/* Demo Video Section */}
   <section className="py-20 bg-white px-6 animate-slideUp">
-    <h2 className="text-3xl font-bold text-center text-indigo-900 mb-8">Watch ChittaVani in Action</h2>
+    <h2 className="text-3xl font-bold text-center text-indigo-900 mb-8">Watch BrainScore in Action</h2>
     <div className="max-w-4xl mx-auto h-64 bg-gray-200 rounded-xl shadow-md flex items-center justify-center hover:scale-105 transition-transform overflow-hidden">
       <video src="/assets/video.mp4" poster="/assets/inora.jpg" className="w-full h-full rounded-xl object-cover" controls autoPlay loop muted />
     </div>

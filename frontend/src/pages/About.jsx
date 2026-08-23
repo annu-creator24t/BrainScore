@@ -10,24 +10,24 @@ setOpenIndex(openIndex === index ? null : index);
 
 const faqs = [
 {
-question: "Why should I use ChittaVani?",
-answer: "ChittaVani helps people communicate effortlessly by converting brain signals into text in real-time, making it invaluable for those facing speech or movement challenges.",
+question: "Why should I use BrainScore?",
+answer: "BrainScore helps people communicate effortlessly by converting brain signals into text in real-time, making it invaluable for those facing speech or movement challenges.",
 },
 {
-question: "Who can benefit from ChittaVani?",
-answer: "People with speech impairments, paralysis, ALS, or other neurological conditions can use ChittaVani. Researchers, caregivers, and innovators in human-computer interaction can also benefit.",
+question: "Who can benefit from BrainScore?",
+answer: "People with speech impairments, paralysis, ALS, or other neurological conditions can use BrainScore. Researchers, caregivers, and innovators in human-computer interaction can also benefit.",
 },
 {
-question: "Do I need any technical knowledge to use ChittaVani?",
-answer: "No, ChittaVani is designed to be intuitive and user-friendly, requiring no technical expertise. Anyone can start using it with minimal guidance.",
+question: "Do I need any technical knowledge to use BrainScore?",
+answer: "No, BrainScore is designed to be intuitive and user-friendly, requiring no technical expertise. Anyone can start using it with minimal guidance.",
 },
 {
-question: "How can ChittaVani improve daily life?",
-answer: "By enabling communication without physical effort, ChittaVani empowers users to express thoughts, participate in social interactions, and gain independence in everyday activities.",
+question: "How can BrainScore improve daily life?",
+answer: "By enabling communication without physical effort, BrainScore empowers users to express thoughts, participate in social interactions, and gain independence in everyday activities.",
 },
 {
-question: "Is ChittaVani suitable for healthcare and research?",
-answer: "Absolutely. ChittaVani can assist patients in hospitals or rehabilitation, and researchers can leverage its technology for neuroscience studies and assistive AI research.",
+question: "Is BrainScore suitable for healthcare and research?",
+answer: "Absolutely. BrainScore can assist patients in hospitals or rehabilitation, and researchers can leverage its technology for neuroscience studies and assistive AI research.",
 },
 ];
 
@@ -51,8 +51,8 @@ className={`w-5 h-5 text-gray-500 transform transition-transform ${
 
 export default function About() {
 return ( <div className="min-h-screen bg-white text-gray-900">
-{/* Hero Section */} <section className="py-20 px-6 md:px-20 bg-white"> <div className="grid md:grid-cols-2 gap-10 items-center"> <img src="/assets/chittavani.jpg" alt="About ChittaVani" className="rounded-lg shadow-lg" /> <div> <h1 className="text-5xl font-extrabold text-blue-600 mb-6">About ChittaVani</h1> <p className="text-lg text-gray-700 leading-relaxed">
-ChittaVani is an innovative platform that bridges human brain signals with digital communication. Our mission is to make technology more inclusive, accessible, and impactful by converting thoughts into text and empowering those with communication barriers. </p> </div> </div> </section>
+{/* Hero Section */} <section className="py-20 px-6 md:px-20 bg-white"> <div className="grid md:grid-cols-2 gap-10 items-center"> <img src="/assets/chittavani.jpg" alt="About BrainScore" className="rounded-lg shadow-lg" /> <div> <h1 className="text-5xl font-extrabold text-blue-600 mb-6">About BrainScore</h1> <p className="text-lg text-gray-700 leading-relaxed">
+BrainScore is an innovative platform that bridges human brain signals with digital communication. Our mission is to make technology more inclusive, accessible, and impactful by converting thoughts into text and empowering those with communication barriers. </p> </div> </div> </section>
 
 
   <hr className="border-t border-gray-200 my-12" />
@@ -63,7 +63,7 @@ ChittaVani is an innovative platform that bridges human brain signals with digit
       <div>
         <h2 className="text-3xl font-bold mb-4 text-blue-600">Our Vision</h2>
         <p className="text-lg leading-relaxed text-gray-600">
-          At ChittaVani, our vision is to empower people suffering from conditions like ALS, paralysis, or speech impairments by decoding brain signals into meaningful communication. We aim to create a world where technology bridges the gap between thoughts and expression.
+          At BrainScore, our vision is to empower people suffering from conditions like ALS, paralysis, or speech impairments by decoding brain signals into meaningful communication. We aim to create a world where technology bridges the gap between thoughts and expression.
         </p>
       </div>
       <div>
@@ -123,7 +123,7 @@ ChittaVani is an innovative platform that bridges human brain signals with digit
       <div>
         <h2 className="text-4xl font-bold text-blue-600 mb-6">Our Team</h2>
         <p className="text-lg text-gray-600 mb-4 leading-relaxed">
-          Behind ChittaVani is a passionate team of innovators, researchers, and engineers committed to transforming brain signals into meaningful communication. Together, we aim to create technology that empowers people and makes a real impact.
+          Behind BrainScore is a passionate team of innovators, researchers, and engineers committed to transforming brain signals into meaningful communication. Together, we aim to create technology that empowers people and makes a real impact.
         </p>
         <a href="/team" className="px-6 py-3 bg-blue-600 text-white rounded-2xl font-semibold text-lg shadow hover:bg-blue-700 transition">
           Meet Our Team →

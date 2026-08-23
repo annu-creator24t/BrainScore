@@ -194,7 +194,7 @@ const ContactPage = () => {
                       className="mt-1 mr-2"
                     />
                     <label htmlFor="newsletters" className="text-sm text-gray-700">
-                      I accept to receive newsletters from ChittaVani.
+                      I accept to receive newsletters from BrainScore.
                     </label>
                   </div>
                   <div className="flex items-start">

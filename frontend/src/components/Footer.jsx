@@ -10,9 +10,9 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto grid md:grid-cols-4 gap-8">
         {/* About */}
         <div>
-          <h3 className="text-xl font-bold mb-4">ChittaVani</h3>
+          <h3 className="text-xl font-bold mb-4">BrainScore</h3>
           <p className="text-sm">
-            Bridging brain signals with digital communication, ChittaVani empowers
+            Bridging brain signals with digital communication, BrainScore empowers
             people to express thoughts seamlessly. Join us in making technology
             inclusive, accessible, and transformative for everyone.
           </p>
@@ -56,10 +56,10 @@ export default function Footer() {
           <p className="text-sm flex items-center gap-2">
             <Mail className="w-4 h-4" />{" "}
             <a
-              href="mailto:contact@chittavani.ai"
+              href="mailto:contact@brainscore.ai"
               className="hover:text-white transition"
             >
-              contact@chittavani.ai
+              contact@brainscore.ai
             </a>
           </p>
           <p className="text-sm mt-2">+91 98765 43210</p>
@@ -70,7 +70,7 @@ export default function Footer() {
           <h3 className="text-xl font-bold mb-4">Follow Us</h3>
           <div className="flex space-x-4">
             <a
-              href="https://facebook.com/chittavani"
+              href="https://facebook.com/brainscore"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition"
@@ -78,7 +78,7 @@ export default function Footer() {
               <Facebook className="w-5 h-5" />
             </a>
             <a
-              href="https://twitter.com/chittavani"
+              href="https://twitter.com/brainscore"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition"
@@ -86,7 +86,7 @@ export default function Footer() {
               <Twitter className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/company/chittavani"
+              href="https://linkedin.com/company/brainscore"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition"
@@ -94,7 +94,7 @@ export default function Footer() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="https://instagram.com/chittavani"
+              href="https://instagram.com/brainscore"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition"
@@ -108,7 +108,7 @@ export default function Footer() {
       <hr className="border-gray-400 my-6" />
 
       <p className="text-center text-sm">
-        © {new Date().getFullYear()} ChittaVani. All rights reserved.
+        © {new Date().getFullYear()} BrainScore. All rights reserved.
       </p>
     </footer>
   );

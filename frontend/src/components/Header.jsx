@@ -5,7 +5,7 @@ export default function Header() {
     <nav className="flex justify-between items-center px-10 py-5 bg-white/95 backdrop-blur-sm shadow-md sticky top-0 z-50">
       {/* Logo */}
       <h1 className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors cursor-pointer tracking-wide">
-        ChittaVani
+        BrainScore
       </h1>
 
       {/* Navigation Links */}

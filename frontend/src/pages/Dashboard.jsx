@@ -63,7 +63,7 @@ export default function Dashboard() {
     <div className="flex min-h-screen bg-indigo-50">
       {/* Sidebar */}
       <aside className="w-64 bg-indigo-900 text-white flex flex-col p-6">
-        <h2 className="text-2xl font-bold mb-10">ChittaVani</h2>
+        <h2 className="text-2xl font-bold mb-10">BrainScore</h2>
         <nav className="flex flex-col gap-4 text-lg">
           <Link to="/" className="hover:text-indigo-300 transition">Home</Link>
           <Link to="/NgoHospital" className="hover:text-indigo-300 transition">NgoHospital</Link>

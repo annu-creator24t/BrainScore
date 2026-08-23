@@ -117,7 +117,7 @@ export default function NgoHospital() {
         Our NGO & Hospital Collaborations
       </h2>
       <p className="text-gray-600 text-lg text-center max-w-3xl mx-auto mb-12">
-        ChittaVani partners with reputed NGOs and hospitals to make assistive technologies accessible for everyone. 
+        BrainScore partners with reputed NGOs and hospitals to make assistive technologies accessible for everyone. 
         These collaborations strengthen our mission of building inclusive healthcare solutions.
       </p>
 

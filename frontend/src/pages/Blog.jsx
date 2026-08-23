@@ -62,9 +62,9 @@ export default function Blog() {
   return (
     <div className="px-8 md:px-16 py-12 bg-gray-50 min-h-screen">
       <div className="text-center mb-12">
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-800">ChittaVani Blog</h1>
+        <h1 className="text-4xl md:text-5xl font-bold text-gray-800">BrainScore Blog</h1>
         <p className="text-gray-600 mt-3">
-          Insights on brain-computer interfaces, AI, and neurotechnology from ChittaVani.
+          Insights on brain-computer interfaces, AI, and neurotechnology from BrainScore.
         </p>
       </div>
 
